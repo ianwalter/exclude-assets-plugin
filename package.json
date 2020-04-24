@@ -1,0 +1,22 @@
+{
+  "name": "@ianwalter/exclude-assets-plugin",
+  "license": "SEE LICENSE IN LICENSE",
+  "main": "index.js",
+  "scripts": {
+    "test": "bff"
+  },
+  "files": [
+    "index.js"
+  ],
+  "devDependencies": {
+    "@ianwalter/bff": "^9.8.2",
+    "@ianwalter/clone": "^6.0.1",
+    "@ianwalter/eslint-config": "^4.1.0",
+    "@ianwalter/release": "^5.0.0",
+    "@ianwalter/renovate-config": "^1.3.0",
+    "css-loader": "^3.5.2",
+    "html-webpack-plugin": "^4.2.0",
+    "mini-css-extract-plugin": "^0.9.0",
+    "webpack": "^4.43.0"
+  }
+}
