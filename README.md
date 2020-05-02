@@ -1,5 +1,6 @@
 # @ianwalter/exclude-assets-plugin
-> A html-webpack-plugin plugin to exclude certain assets from your HTML files
+> A [html-webpack-plugin][hwpUrl] plugin to exclude certain assets from your
+> HTML files
 
 [![npm page][npmImage]][npmUrl]
 [![CI][ciImage]][ciUrl]
@@ -39,6 +40,7 @@ Hippocratic License - See [LICENSE][licenseUrl]
 
 Created by [Ian Walter](https://ianwalter.dev)
 
+[hwpUrl]: https://github.com/jantimon/html-webpack-plugin
 [npmImage]: https://img.shields.io/npm/v/@ianwalter/exclude-assets-plugin.svg
 [npmUrl]: https://www.npmjs.com/package/@ianwalter/exclude-assets-plugin
 [ciImage]: https://github.com/ianwalter/exclude-assets-plugin/workflows/CI/badge.svg
