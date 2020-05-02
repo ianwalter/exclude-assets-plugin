@@ -1,6 +1,6 @@
 {
   "name": "@ianwalter/exclude-assets-plugin",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "A html-webpack-plugin plugin to exclude certain assets from your HTML files",
   "license": "SEE LICENSE IN LICENSE",
   "author": {
