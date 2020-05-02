@@ -13,7 +13,7 @@ yarn add @ianwalter/exclude-assets-plugin
 
 ## Usage
 
-Here's an example of a stripped down Webpack configuation that excludes all
+Here's an example of a stripped down Webpack configuration that excludes all
 JavaScript assets from the generated HTML file:
 
 ```js
