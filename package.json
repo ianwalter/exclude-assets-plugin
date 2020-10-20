@@ -31,7 +31,7 @@
     "@ianwalter/renovate-config": "^1.4.1",
     "css-loader": "^4.3.0",
     "html-webpack-plugin": "^4.5.0",
-    "mini-css-extract-plugin": "^1.1.0",
+    "mini-css-extract-plugin": "^1.1.1",
     "webpack": "^4.44.2"
   },
   "eslintConfig": {
