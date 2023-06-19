@@ -8,7 +8,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     container:
-      image: node:13.8
+      image: node:13.14
     timeout-minutes: 3
     steps:
       - name: Checkout
